@@ -130,7 +130,7 @@ For a detailed walkthrough of the project methodology and findings:
 **Ruslan Dubas** 
 - GitHub: [@RusUsf](https://github.com/RusUsf)
 - Project Repository: [FDOR_Data_and_Models](https://github.com/RusUsf/FDOR_Data_and_Models)
-- LinkedIn:https://www.linkedin.com/in/ruslan-dubas-861a7799/
+- LinkedIn: https://www.linkedin.com/in/ruslan-dubas-861a7799/
 
 ## Acknowledgments
 
