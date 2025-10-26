@@ -13,6 +13,8 @@ Real estate investors and iBuyer companies need to quickly assess whether a prop
 - Build models that can flag high-risk investments
 - Provide data-driven insights for investment strategy optimization
 
+![Machine Learning Process](Images/MachineLearning_Process.JPG)
+
 ## Data Source
 
 **Florida Department of Revenue (FDOR) Assessment Tax Rolls**
@@ -58,8 +60,12 @@ Key analyses performed:
 
 ## Key Findings
 
+![Main Finding](Images/Main_Finding.JPG)
+
 ### Primary Insight
 **Geographic location is the single strongest predictor of profitability.** The calculated "subdivision risk score" outperformed all property-specific features.
+
+![Key Predictors](Images/Key_Predictors.JPG)
 
 ### Secondary Insights
 - Property characteristics (size, age, condition) have limited predictive power
